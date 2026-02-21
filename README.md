@@ -8,7 +8,7 @@ A high-performance, responsive personal portfolio website built with **Semantic 
 - **Frontend:** HTML5, CSS3 (Flexbox & Grid)
 - **Icons:** Font Awesome 6.0
 - **Typography:** Google Fonts
-- **Deployment:** [Add your deployment link here, e.g., GitHub Pages/Netlify]
+- **Deployment:** [🚀 View My Live Portfolio](https://ibrahim-344.github.io/Ibrahim-Portfolio/)
 
 ---
 
